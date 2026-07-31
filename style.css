@@ -1,0 +1,53 @@
+/* TEMA CORALINE: Escuro, Misterioso e com Detalhes Vibrantes */
+
+body {
+  background-color: #1a1a2e; /* Azul meia-noite muito escuro */
+  color: #fdfaf0; /* Branco suave/envelhecido */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+header, nav {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #ffd700; /* Dourado/Amarelo vibrante do casaco da Coraline */
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #ffcc00; /* Amarelo-dourado para títulos dos posts */
+  margin-top: 0;
+}
+
+h3 {
+  color: #ff9f43; /* Laranja para subtítulos */
+  font-weight: normal;
+}
+
+article {
+  background-color: #212135; /* Azul ligeiramente mais claro para os cartões */
+  border-radius: 15px; /* Bordas arredondadas */
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+strong {
+  color: #ffd700; /* Destaque em amarelo */
+}
+
+em {
+  color: #ffb142; /* Destaque em itálico */
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.9em;
+  color: #a0a0b0;
+}
